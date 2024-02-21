@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+}
+
+img {
+    width: 123px;
+    height: auto;
+}
+
+/** Knapper **/
+.knap {
+
+}
+
+.knap:hover {
+
+}
